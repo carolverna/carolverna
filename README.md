@@ -60,14 +60,3 @@ Este repositório reúne alguns dos projetos que desenvolvi ao longo da minha jo
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolverna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
-
----
-
-<!-- Adicione suas redes sociais aqui se quiser -->
-
-<!--
-### 📱 Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/@seuinsta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinsta)
-[![LinkedIn](https://img.shields.io/badge/Ana%20Carolina%20Verna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
--->
