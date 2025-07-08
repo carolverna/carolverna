@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ana Carolina Verna
+# 👩🏾‍💻 Ana Carolina Verna
 
 **`Estudante de Engenharia de Software | Desenvolvedora Full Stack em formação`**
 
