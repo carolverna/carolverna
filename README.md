@@ -41,22 +41,22 @@ Este repositório reúne alguns dos projetos que desenvolvi ao longo da minha jo
 <br/>
 
 ---
-
 ### 📊 Estatísticas GitHub
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carolverna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carolverna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
   />
-  
+
   <img 
     align="left" 
-    alt="Top Langs" 
+    alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolverna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolverna&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8&cache_seconds=86400" 
   />
 </p>
+
