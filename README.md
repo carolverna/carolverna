@@ -22,7 +22,6 @@ Este repositório reúne alguns dos projetos que desenvolvi ao longo da minha jo
 - JPA, Hibernate e MySQL
 - Testes com JUnit
 - Integração com APIs
-- Deploy com Heroku e Netlify
 
 ---
 
