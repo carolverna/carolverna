@@ -20,7 +20,7 @@
 ```typescript
 const ana = {
   role: "Full Stack Developer",
-  location: "São Paulo, Brasil 🇧🇷",
+  location: "Rio de Janeiro, Brasil 🇧🇷",
   education: "Engenharia de Software",
   
   experience: [
